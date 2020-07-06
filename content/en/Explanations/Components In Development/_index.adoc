@@ -14,3 +14,9 @@ description: >
  ** 2WayVent_3DP_v05.stl is latest 2 way
 * One Way Valve
  ** 2OWV.STL is the latest, requires a flexible seal (silicone molded, printed TPU or cut material/rubber glove)
+* Splitter Screen Display
+  ** first mockup of display
+  ** changes included increasing font size, removing the "patient" label on the top row, adjusting alignments, fixing measurement typo, and adding an additional column for header abbreviations.
+  ** adjustments to the vertical alignment of measurements and units in the four columns.
+  ** removed Mean Airway Pressure and Pressure Volume row, as it was no longer necessary to include in the display, increased font sizes, explored using a different font for the display
+  ** changes included, changing the headers to be left-aligned, adding the units to the header column next to the corresponding measurement, adjusting the alignments for the decimal points of the number measurements so that they are all vertically-aligned, explored the use of color for better column differentiation and identification.
